@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663534440610",
+    "project_id": "projectbottombarcustom",
+    "storage_bucket": "projectbottombarcustom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663534440610:android:9bc049fcc08411980ac7fb",
+        "android_client_info": {
+          "package_name": "com.kareemdev.projectbottombarcustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663534440610-fpdn05pmreu79l086tvq47n39l9cp9f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8tVaPHnqINxv669freIZ6FnRjs0YgTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663534440610-fpdn05pmreu79l086tvq47n39l9cp9f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
